@@ -1,0 +1,26 @@
+---
+abstract: 'Dancer2 Plugin to create multilanguage sites'
+author:
+  - "Simone Fare' <cymon@tiscali.it>"
+build_requires:
+  Dancer2: 0.150000
+  FindBin: 0
+  LWP::UserAgent: 0
+  Test::More: 0
+  Test::TCP: 0
+  lib: 0
+  strict: 0
+  warnings: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 5.019, CPAN::Meta::Converter version 2.132140'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Dancer2-Plugin-Multilang
+requires:
+  Dancer2: 0.150000
+  Dancer2::Plugin: 0
+version: 1.0.0
