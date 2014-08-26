@@ -23,4 +23,6 @@ name: Dancer2-Plugin-Multilang
 requires:
   Dancer2: 0.150000
   Dancer2::Plugin: 0
-version: 1.0.0
+resources:
+  repository: https://github.com/cym0n/Dancer2-Plugin-Multilang.git
+version: 1.0.1
